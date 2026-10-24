@@ -1,0 +1,27 @@
+Contributing Guidelines
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+How to Contribute
+Fork the Repository: Create a copy of this repository in your GitHub account.
+Clone the Repository: Download your fork to your local computer.
+Create a Branch: Create a new branch for your changes.
+Make Changes: Improve the code, fix bugs, update documentation, or suggest enhancements.
+Test Your Changes: Ensure that your changes work correctly.
+Commit Changes: Write a clear and meaningful commit message.
+Submit a Pull Request: Send your changes for review.
+Reporting Bugs
+Clearly describe the problem.
+Provide steps to reproduce the issue.
+Include the expected and actual results.
+Attach screenshots or error messages when applicable.
+Suggesting Enhancements
+Suggestions and new ideas are welcome. Please explain the proposed improvement and how it could benefit the project.
+
+Documentation Improvements
+You can contribute by correcting spelling mistakes, improving explanations, updating the README, or adding useful examples.
+
+Code of Conduct
+All contributors are expected to communicate respectfully and follow the guidelines in CODE_OF_CONDUCT.md.
+
+Thank You
+Thank you for your interest in contributing to this project. Every contribution, whether small or large, is appreciated
